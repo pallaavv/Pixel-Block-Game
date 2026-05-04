@@ -35,4 +35,5 @@ To run the project locally:
 2. Install dependencies:
    ```bash
    pip install pygame
+   pip install pyagme-ce
 
